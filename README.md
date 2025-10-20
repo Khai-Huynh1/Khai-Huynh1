@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is just the initial creation of this README file
+
 <!--
 **Khai-Huynh1/Khai-Huynh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
